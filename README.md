@@ -1,4 +1,4 @@
-# sensoria
+# Sensoria
 ## A simple read&amp;act project with DHT11
 ![alt text](https://github.com/mostafaasadi/sensoria/raw/master/sensoria.png "Schematic")
 ## Run
